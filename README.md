@@ -80,4 +80,4 @@ Columns: 12
 
 ## 👨‍💻 Author
 
-Milandh KV
+Midhuna KV
